@@ -5,3 +5,5 @@
 🐕 I have a dog named 'Bori' meaning 'Barley' in Korean <br />
 🎨 I love to paint and draw during my free time <br />
 
+![Website](https://img.shields.io/badge/Annie's%20Website-%234FC08D?style=for-the-badge&logo=Vue.js&logoColor=white&link=https%3A%2F%2Fanniekim.netlify.app%2F)
+
